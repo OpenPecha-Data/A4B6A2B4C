@@ -1,0 +1,19 @@
+id: A4B6A2B4C
+title: Verses in Praise of the Protector Akṣobhya
+type: translation
+pechas:
+- IBF1171AB
+- I0D4A1142
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:45:32.599633
+  last_modified_at: 2023-01-04 11:45:32.599644
+  collections:
+  - Drikung Kyobpa Jikten Sumgön
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBF1171AB/26CA: 2E42
+  I0D4A1142/183D: 2E42
